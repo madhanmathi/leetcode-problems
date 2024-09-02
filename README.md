@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/madhanmathi/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-running-sum-of-1d-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/madhanmathi/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2058-concatenation-of-array) |
 ## Binary Search
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
