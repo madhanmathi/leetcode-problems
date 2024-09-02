@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/madhanmathi/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2048-build-array-from-permutation](https://github.com/madhanmathi/leetcode-problems/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -16,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/madhanmathi/leetcode-problems/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
