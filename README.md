@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/madhanmathi/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/madhanmathi/leetcode-problems/tree/master/1791-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/madhanmathi/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
