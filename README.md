@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/madhanmathi/leetcode-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
