@@ -92,8 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/madhanmathi/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/madhanmathi/leetcode-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/madhanmathi/leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/madhanmathi/leetcode-problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
