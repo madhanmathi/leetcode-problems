@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0932-monotonic-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/madhanmathi/leetcode-problems/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1185-find-in-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/madhanmathi/leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/madhanmathi/leetcode-problems/tree/master/0075-sort-colors) |
+| [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/madhanmathi/leetcode-problems/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/madhanmathi/leetcode-problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/madhanmathi/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/madhanmathi/leetcode-problems/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
