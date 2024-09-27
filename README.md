@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/madhanmathi/leetcode-problems/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/madhanmathi/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/madhanmathi/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/madhanmathi/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/madhanmathi/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhanmathi/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -63,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhanmathi/leetcode-problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/madhanmathi/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/madhanmathi/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/madhanmathi/leetcode-problems/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/madhanmathi/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhanmathi/leetcode-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/madhanmathi/leetcode-problems/tree/master/1137-height-checker) |
