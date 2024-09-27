@@ -5,7 +5,7 @@ class Solution {
             if(arr[i]==0){
                 return 0;
             }
-            else if(arr[i]<0){
+             if(arr[i]<0){
                 count++;
             }
         }
