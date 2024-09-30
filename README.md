@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/madhanmathi/leetcode-problems/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/madhanmathi/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/madhanmathi/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/madhanmathi/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/madhanmathi/leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/madhanmathi/leetcode-problems/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/madhanmathi/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhanmathi/leetcode-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -162,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
