@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/madhanmathi/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/madhanmathi/leetcode-problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/madhanmathi/leetcode-problems/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/madhanmathi/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/madhanmathi/leetcode-problems/tree/master/0861-flipping-an-image) |
 ## Math
 |  |
