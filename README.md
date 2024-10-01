@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/madhanmathi/leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/madhanmathi/leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhanmathi/leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
