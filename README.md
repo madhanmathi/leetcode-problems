@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhanmathi/leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhanmathi/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhanmathi/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/madhanmathi/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhanmathi/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
