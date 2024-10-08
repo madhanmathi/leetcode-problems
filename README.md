@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/madhanmathi/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhanmathi/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/madhanmathi/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhanmathi/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/madhanmathi/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/madhanmathi/leetcode-problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/madhanmathi/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/madhanmathi/leetcode-problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1185-find-in-mountain-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/madhanmathi/leetcode-problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/madhanmathi/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/madhanmathi/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/madhanmathi/leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/madhanmathi/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhanmathi/leetcode-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/madhanmathi/leetcode-problems/tree/master/1137-height-checker) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/madhanmathi/leetcode-problems/tree/master/0861-flipping-an-image) |
 ## Math
 |  |
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/madhanmathi/leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/madhanmathi/leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/madhanmathi/leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/madhanmathi/leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
