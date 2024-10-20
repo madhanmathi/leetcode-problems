@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhanmathi/leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1185-find-in-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/madhanmathi/leetcode-problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/madhanmathi/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/madhanmathi/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
