@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/madhanmathi/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhanmathi/leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2836-neither-minimum-nor-maximum](https://github.com/madhanmathi/leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/madhanmathi/leetcode-problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/madhanmathi/leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
