@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhanmathi/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/madhanmathi/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/madhanmathi/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhanmathi/leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/madhanmathi/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/madhanmathi/leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/madhanmathi/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/madhanmathi/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/madhanmathi/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3379-score-of-a-string) |
 ## Two Pointers
