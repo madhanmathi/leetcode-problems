@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/madhanmathi/leetcode-problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/madhanmathi/leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/madhanmathi/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/madhanmathi/leetcode-problems/tree/master/1791-richest-customer-wealth) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/madhanmathi/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/madhanmathi/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/madhanmathi/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/madhanmathi/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/madhanmathi/leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
