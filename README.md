@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhanmathi/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/madhanmathi/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [3533-snake-in-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhanmathi/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/madhanmathi/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2470-removing-stars-from-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2825-minimize-string-length](https://github.com/madhanmathi/leetcode-problems/tree/master/2825-minimize-string-length) |
 | [3194-find-words-containing-character](https://github.com/madhanmathi/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3379-score-of-a-string) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhanmathi/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/madhanmathi/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
