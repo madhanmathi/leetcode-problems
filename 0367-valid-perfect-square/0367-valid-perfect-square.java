@@ -1,9 +1,14 @@
 class Solution {
     public boolean isPerfectSquare(int num) {
-        for(int i=1;i<=num;i++){
-            if(num==100000001) return false;
-            if(num==2147483647)  return false;
-            if(i*i==num) return true;
+         long l=1, h = num;
+        while(l<=h){
+            long m = l+(h-l)/2;
+            if(m*m==num)
+                return true;
+            else if(m*m<num)
+                l=m+1;
+            else
+                h=m-1;
         }
         return false;
     }
