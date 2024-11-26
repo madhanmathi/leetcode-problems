@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/madhanmathi/leetcode-problems/tree/master/3194-find-words-containing-character) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
