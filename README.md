@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/madhanmathi/leetcode-problems/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/madhanmathi/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/madhanmathi/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/madhanmathi/leetcode-problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1961-maximum-ice-cream-bars](https://github.com/madhanmathi/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/madhanmathi/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/madhanmathi/leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
