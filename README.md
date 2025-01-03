@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3533-snake-in-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3533-snake-in-matrix) |
+| [3636-check-balanced-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3636-check-balanced-string) |
 ## Two Pointers
 |  |
 | ------- |
