@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhanmathi/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhanmathi/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/madhanmathi/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/madhanmathi/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhanmathi/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/madhanmathi/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/madhanmathi/leetcode-problems/tree/master/2634-minimum-common-value) |
 | [2825-minimize-string-length](https://github.com/madhanmathi/leetcode-problems/tree/master/2825-minimize-string-length) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhanmathi/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhanmathi/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Prefix Sum
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/madhanmathi/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/madhanmathi/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhanmathi/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/madhanmathi/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
