@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/madhanmathi/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhanmathi/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/madhanmathi/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhanmathi/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/madhanmathi/leetcode-problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/madhanmathi/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/madhanmathi/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/madhanmathi/leetcode-problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/madhanmathi/leetcode-problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/madhanmathi/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/madhanmathi/leetcode-problems/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/madhanmathi/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/madhanmathi/leetcode-problems/tree/master/0861-flipping-an-image) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/madhanmathi/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/madhanmathi/leetcode-problems/tree/master/0861-flipping-an-image) |
 ## Math
 |  |
