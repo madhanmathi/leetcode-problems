@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/madhanmathi/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhanmathi/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/madhanmathi/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhanmathi/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhanmathi/leetcode-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/madhanmathi/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhanmathi/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/madhanmathi/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/1635-number-of-good-pairs) |
