@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/madhanmathi/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/madhanmathi/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/madhanmathi/leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhanmathi/leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/madhanmathi/leetcode-problems/tree/master/2502-sort-the-people) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/madhanmathi/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/madhanmathi/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/madhanmathi/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/madhanmathi/leetcode-problems/tree/master/2825-minimize-string-length) |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/madhanmathi/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/madhanmathi/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
