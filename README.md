@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/madhanmathi/leetcode-problems/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/madhanmathi/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/madhanmathi/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3226-minimum-number-game](https://github.com/madhanmathi/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3533-snake-in-matrix) |
 ## Hash Table
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/madhanmathi/leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/madhanmathi/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3226-minimum-number-game](https://github.com/madhanmathi/leetcode-problems/tree/master/3226-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
