@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/madhanmathi/leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/madhanmathi/leetcode-problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/madhanmathi/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhanmathi/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/madhanmathi/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/madhanmathi/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/0898-transpose-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/madhanmathi/leetcode-problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/madhanmathi/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhanmathi/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
