@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/madhanmathi/leetcode-problems/tree/master/1137-height-checker) |
+| [1168-duplicate-zeros](https://github.com/madhanmathi/leetcode-problems/tree/master/1168-duplicate-zeros) |
 | [1185-find-in-mountain-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1185-find-in-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/madhanmathi/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/madhanmathi/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/madhanmathi/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/madhanmathi/leetcode-problems/tree/master/1168-duplicate-zeros) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/madhanmathi/leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/madhanmathi/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
