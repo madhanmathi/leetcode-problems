@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/madhanmathi/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/madhanmathi/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/madhanmathi/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/madhanmathi/leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/madhanmathi/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/madhanmathi/leetcode-problems/tree/master/0066-plus-one) |
