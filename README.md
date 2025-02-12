@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/madhanmathi/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/madhanmathi/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/madhanmathi/leetcode-problems/tree/master/3226-minimum-number-game) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/madhanmathi/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/madhanmathi/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/madhanmathi/leetcode-problems/tree/master/3194-find-words-containing-character) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/3447-clear-digits) |
@@ -443,8 +445,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/madhanmathi/leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/madhanmathi/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
