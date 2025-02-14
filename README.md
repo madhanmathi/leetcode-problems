@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/madhanmathi/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/madhanmathi/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0909-stone-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/madhanmathi/leetcode-problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/madhanmathi/leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/madhanmathi/leetcode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/madhanmathi/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/madhanmathi/leetcode-problems/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -462,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
