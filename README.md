@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/madhanmathi/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/madhanmathi/leetcode-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3429-special-array-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/madhanmathi/leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/madhanmathi/leetcode-problems/tree/master/1791-richest-customer-wealth) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/madhanmathi/leetcode-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## String
 |  |
 | ------- |
