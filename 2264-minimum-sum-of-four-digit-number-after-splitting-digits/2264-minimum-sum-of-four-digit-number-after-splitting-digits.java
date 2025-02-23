@@ -7,8 +7,6 @@ class Solution {
             num=num/10;
         }
         Arrays.sort(arr);
-        String a=String.valueOf(arr[0])+String.valueOf(arr[4-1]);
-         String b=String.valueOf(arr[1])+String.valueOf(arr[4-2]);
-         return Integer.valueOf(a)+Integer.valueOf(b);
+        return ((arr[0]*10+arr[4-1])+(arr[1]*10+arr[4-2]));
     }
 }
