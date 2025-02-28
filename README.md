@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/madhanmathi/leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/madhanmathi/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhanmathi/leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhanmathi/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/madhanmathi/leetcode-problems/tree/master/2634-minimum-common-value) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2470-removing-stars-from-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/madhanmathi/leetcode-problems/tree/master/2502-sort-the-people) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/madhanmathi/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/madhanmathi/leetcode-problems/tree/master/2825-minimize-string-length) |
