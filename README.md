@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/madhanmathi/leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/madhanmathi/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhanmathi/leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2551-apply-operations-to-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhanmathi/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhanmathi/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/madhanmathi/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/madhanmathi/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/3447-clear-digits) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/madhanmathi/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhanmathi/leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/madhanmathi/leetcode-problems/tree/master/2481-strictly-palindromic-number) |
+| [2551-apply-operations-to-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/madhanmathi/leetcode-problems/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
