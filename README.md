@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/madhanmathi/leetcode-problems/tree/master/2634-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/madhanmathi/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhanmathi/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/madhanmathi/leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/madhanmathi/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/madhanmathi/leetcode-problems/tree/master/2634-minimum-common-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhanmathi/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2825-minimize-string-length](https://github.com/madhanmathi/leetcode-problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/madhanmathi/leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/madhanmathi/leetcode-problems/tree/master/2634-minimum-common-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhanmathi/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
