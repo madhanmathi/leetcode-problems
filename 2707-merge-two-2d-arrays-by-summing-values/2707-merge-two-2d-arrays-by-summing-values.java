@@ -17,8 +17,7 @@ class Solution {
         for(int i=0;i<arr.length;i++){
            if(arr[i]!=0){
             res[j][0]=i;
-            res[j][1]=arr[i];
-            j++;
+            res[j++][1]=arr[i];
            }
         }
         return res;
