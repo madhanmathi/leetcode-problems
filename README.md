@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/madhanmathi/leetcode-problems/tree/master/2634-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/madhanmathi/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhanmathi/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2714-left-and-right-sum-differences](https://github.com/madhanmathi/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/madhanmathi/leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/madhanmathi/leetcode-problems/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/madhanmathi/leetcode-problems/tree/master/2571-find-the-pivot-integer) |
+| [2714-left-and-right-sum-differences](https://github.com/madhanmathi/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 ## Interactive
 |  |
 | ------- |
