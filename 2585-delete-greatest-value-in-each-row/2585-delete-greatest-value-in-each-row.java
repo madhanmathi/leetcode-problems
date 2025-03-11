@@ -8,17 +8,13 @@ class Solution {
         int val=arr[0].length;
         int count=0;
         int sum=0;
-        while(val>0){
+        for(int j=0;j<arr[0].length;j++){
             count=0;
         for(int i=0;i<n;i++){
-            if(arr[i][r]>count){
-                count=arr[i][r];
-            }
+          count=Math.max(count,arr[i][r]);
         }
-        System.out.print(count+" ");
         sum=sum+count;
         r--;
-        val--;
         }
         return sum;
     }
