@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/madhanmathi/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/madhanmathi/leetcode-problems/tree/master/1260-day-of-the-year) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1542-consecutive-characters](https://github.com/madhanmathi/leetcode-problems/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/madhanmathi/leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/madhanmathi/leetcode-problems/tree/master/1666-make-the-string-great) |
