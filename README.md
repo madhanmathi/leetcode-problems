@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/madhanmathi/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3194-find-words-containing-character](https://github.com/madhanmathi/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/madhanmathi/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhanmathi/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhanmathi/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2825-minimize-string-length](https://github.com/madhanmathi/leetcode-problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhanmathi/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhanmathi/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
