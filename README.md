@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/madhanmathi/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/madhanmathi/leetcode-problems/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhanmathi/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhanmathi/leetcode-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/0777-toeplitz-matrix) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/madhanmathi/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/madhanmathi/leetcode-problems/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhanmathi/leetcode-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/madhanmathi/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/madhanmathi/leetcode-problems/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/madhanmathi/leetcode-problems/tree/master/1137-height-checker) |
 | [1961-maximum-ice-cream-bars](https://github.com/madhanmathi/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
 ## Number Theory
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/madhanmathi/leetcode-problems/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/madhanmathi/leetcode-problems/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/madhanmathi/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
