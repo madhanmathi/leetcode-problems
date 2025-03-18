@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/madhanmathi/leetcode-problems/tree/master/0941-sort-array-by-parity) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/madhanmathi/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/madhanmathi/leetcode-problems/tree/master/1137-height-checker) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/madhanmathi/leetcode-problems/tree/master/0782-jewels-and-stones) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/madhanmathi/leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
