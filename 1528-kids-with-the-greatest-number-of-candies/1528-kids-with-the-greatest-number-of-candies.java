@@ -8,8 +8,7 @@ class Solution {
         }
         ArrayList<Boolean> list=new ArrayList<>();
         for(int i=0;i<arr.length;i++){
-            if((arr[i]+e)>=maxval) list.add(true);
-            else list.add(false);
+            list.add((arr[i]+e)>=maxval);
         }
         return list;
     }
