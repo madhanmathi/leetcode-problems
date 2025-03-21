@@ -14,7 +14,7 @@ class Solution {
          }
        e++;
        } 
-       if(len==2147483647) return 0;
+       if(len==Integer.MAX_VALUE) return 0;
        return len;
     }
 }
