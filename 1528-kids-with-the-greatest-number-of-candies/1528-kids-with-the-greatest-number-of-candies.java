@@ -6,7 +6,7 @@ class Solution {
                 maxval=arr[i];
             }
         }
-        ArrayList<Boolean> list=new ArrayList<>();
+        List<Boolean> list=new ArrayList<>(arr.length);
         for(int i=0;i<arr.length;i++){
             list.add((arr[i]+e)>=maxval);
         }
