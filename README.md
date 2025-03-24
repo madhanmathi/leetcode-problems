@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/madhanmathi/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/madhanmathi/leetcode-problems/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhanmathi/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/madhanmathi/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhanmathi/leetcode-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/madhanmathi/leetcode-problems/tree/master/0792-binary-search) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/madhanmathi/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/madhanmathi/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/madhanmathi/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/madhanmathi/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/madhanmathi/leetcode-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
