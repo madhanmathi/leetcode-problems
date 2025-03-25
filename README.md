@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/madhanmathi/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/madhanmathi/leetcode-problems/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/madhanmathi/leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/madhanmathi/leetcode-problems/tree/master/0413-arithmetic-slices) |
 | [0909-stone-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Game Theory
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhanmathi/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhanmathi/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/madhanmathi/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/madhanmathi/leetcode-problems/tree/master/0413-arithmetic-slices) |
 | [1046-max-consecutive-ones-iii](https://github.com/madhanmathi/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/madhanmathi/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
