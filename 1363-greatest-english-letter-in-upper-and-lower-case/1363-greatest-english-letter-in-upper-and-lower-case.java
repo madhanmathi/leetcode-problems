@@ -7,10 +7,14 @@ class Solution {
             else arr2[s.charAt(i)-65]++;
         }
         char a=0;
+        boolean flag=true;
         for(int i=0;i<26;i++){
-            if(arr[i]!=0&&arr2[i]!=0) a=(char)(i+65);
+            if(arr[i]!=0&&arr2[i]!=0){
+                flag=false;
+                 a=(char)(i+65);
+            }
         }
-        if(a=='\u0000') return "";
+        if(flag) return "";
         return String.valueOf(a);
     }
 }
