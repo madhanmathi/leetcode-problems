@@ -14,8 +14,6 @@ class Solution {
             }
             while(n1<m) res[idx++]=nums1[n1++];
              while(n2<n) res[idx++]=nums2[n2++];
-             for(int i=0;i<res.length;i++){
-                nums1[i]=res[i];
-             }
+             for(int i=0;i<res.length;i++) nums1[i]=res[i];
     }
 }
