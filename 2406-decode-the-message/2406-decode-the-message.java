@@ -1,6 +1,6 @@
 class Solution {
     public String decodeMessage(String key, String message) {
-       List<Character> list=new ArrayList<>();
+       List<Character> list=new ArrayList<>(26);
       for(int i=0;i<key.length();i++){
         if(key.charAt(i)!=' '&&!list.contains(key.charAt(i))){
             list.add(key.charAt(i));
