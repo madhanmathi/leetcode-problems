@@ -1,8 +1,8 @@
 class Solution {
     public String decodeMessage(String key, String message) {
-       List<Character> list=new ArrayList<>(26);
+        LinkedHashSet<Character> list = new LinkedHashSet<>();
       for(int i=0;i<key.length();i++){
-        if(key.charAt(i)!=' '&&!list.contains(key.charAt(i))){
+        if(key.charAt(i)!=' '){
             list.add(key.charAt(i));
         }
       }
@@ -12,8 +12,10 @@ class Solution {
             b.append(' ');
             continue;
         }
-        for(int j=0;j<list.size();j++){
-            if(message.charAt(i)==list.get(j)) b.append((char)(j+97));
+        int j=0;
+        for(char c:list){
+            if(message.charAt(i)==c) b.append((char)((j++)+97));
+            j++;
         }
      }
      return b.toString();
