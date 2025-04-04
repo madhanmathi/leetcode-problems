@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3636-check-balanced-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
