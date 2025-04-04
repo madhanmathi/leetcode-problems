@@ -12,16 +12,12 @@ class Solution {
         for(int i=0;i<res1.length;i++){
             if(res1[i]==0) continue;
             if(!list.contains(res1[i])) list.add(res1[i]);
-            else{
-                 return false;
-            }
+            else return false;
         }
         for(int i=0;i<res2.length;i++){
             if(res2[i]==0) continue;
             if(!list.contains(res2[i])) list.add(res2[i]);
-            else{
-                 return false;
-            }
+            else return false;
         }
       return true;
     }
