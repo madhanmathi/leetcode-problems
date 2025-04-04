@@ -4,9 +4,7 @@ class Solution {
         int[] res2=new int[1001];
         for(int i=0;i<arr.length;i++){
           if(arr[i]>=0) res1[arr[i]]++;
-        }
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]<0) res2[Math.abs(arr[i])]++;
+          else res2[Math.abs(arr[i])]++;
         }
         List<Integer> list=new ArrayList<>();
         for(int i=0;i<res1.length;i++){
