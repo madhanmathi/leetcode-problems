@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/madhanmathi/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/madhanmathi/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/madhanmathi/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/madhanmathi/leetcode-problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/madhanmathi/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhanmathi/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/madhanmathi/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/madhanmathi/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/madhanmathi/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhanmathi/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/madhanmathi/leetcode-problems/tree/master/2226-rings-and-rods) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/madhanmathi/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/madhanmathi/leetcode-problems/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhanmathi/leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/madhanmathi/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/madhanmathi/leetcode-problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2447-merge-similar-items](https://github.com/madhanmathi/leetcode-problems/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/madhanmathi/leetcode-problems/tree/master/2502-sort-the-people) |
