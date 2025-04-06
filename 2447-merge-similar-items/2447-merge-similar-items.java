@@ -15,14 +15,13 @@ class Solution {
         int val=map.getOrDefault(num2[i][0],0);
           map.put(num2[i][0],val+num2[i][1]);
       }
-    for(int i=1;i<=max1;i++){
+    for(int i=min1;i<=max1;i++){
         if(map.containsKey(i)){
-            List<Integer> list=new ArrayList<>();
+            List<Integer> list=new ArrayList<>(2);
             list.add(i);
             list.add(map.get(i));
            res.add(list);
         }
-       
     }
     return res;
     }
