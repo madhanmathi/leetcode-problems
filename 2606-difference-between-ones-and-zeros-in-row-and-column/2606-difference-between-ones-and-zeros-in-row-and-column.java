@@ -12,8 +12,6 @@ class Solution {
              arr2[i]=arr2[i]+grid[j][i];
             }
         }
-        System.out.print(Arrays.toString(arr1));
-         System.out.print(Arrays.toString(arr2));
         int n=arr1.length;
         int m=arr2.length;
        for(int i=0;i<grid.length;i++){
