@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhanmathi/leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/2594-count-pairs-of-similar-strings) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhanmathi/leetcode-problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhanmathi/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/madhanmathi/leetcode-problems/tree/master/2634-minimum-common-value) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhanmathi/leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhanmathi/leetcode-problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/madhanmathi/leetcode-problems/tree/master/3226-minimum-number-game) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/madhanmathi/leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/madhanmathi/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhanmathi/leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhanmathi/leetcode-problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2737-row-with-maximum-ones](https://github.com/madhanmathi/leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhanmathi/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/madhanmathi/leetcode-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
