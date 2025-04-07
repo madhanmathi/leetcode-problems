@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhanmathi/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhanmathi/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2159-two-out-of-three](https://github.com/madhanmathi/leetcode-problems/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/madhanmathi/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/madhanmathi/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhanmathi/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2159-two-out-of-three](https://github.com/madhanmathi/leetcode-problems/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/madhanmathi/leetcode-problems/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/madhanmathi/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/madhanmathi/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/madhanmathi/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2159-two-out-of-three](https://github.com/madhanmathi/leetcode-problems/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/2594-count-pairs-of-similar-strings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
