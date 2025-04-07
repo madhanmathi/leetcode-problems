@@ -1,30 +1,20 @@
 class Solution {
     public List<Integer> twoOutOfThree(int[] nums1, int[] nums2, int[] nums3) {
         List<Integer> list=new ArrayList<>();
-        HashSet<Integer> set1=new HashSet<>();
-        HashSet<Integer> set2=new HashSet<>();
-        HashSet<Integer> set3=new HashSet<>();
+          int[] arr1=new int[101];
+           int[] arr2=new int[101];
+            int[] arr3=new int[101];
         for(int i=0;i<nums1.length;i++){
-            set1.add(nums1[i]);
+            arr1[nums1[i]]=1;
         }
          for(int i=0;i<nums2.length;i++){
-            set2.add(nums2[i]);
+            arr2[nums2[i]]=1;
         }
          for(int i=0;i<nums3.length;i++){
-            set3.add(nums3[i]);
+             arr3[nums3[i]]=1;
         }
-        int[] arr=new int[101];
-        for(int i:set1){
-            arr[i]++;
-        }
-         for(int i:set2){
-            arr[i]++;
-        }
-         for(int i:set3){
-            arr[i]++;
-        }
-        for(int i=1;i<arr.length;i++){
-            if(arr[i]>=2) list.add(i);
+        for(int i=1;i<101;i++){
+            if(arr1[i]+arr2[i]+arr3[i]>1) list.add(i);
         }
         return list;
     }
