@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhanmathi/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/madhanmathi/leetcode-problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/madhanmathi/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhanmathi/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/madhanmathi/leetcode-problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/madhanmathi/leetcode-problems/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/madhanmathi/leetcode-problems/tree/master/3778-transform-array-by-parity) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhanmathi/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhanmathi/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
 | ------- |
