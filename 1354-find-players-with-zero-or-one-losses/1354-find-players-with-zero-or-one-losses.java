@@ -10,13 +10,11 @@ class Solution {
          arr2[arr[i][1]]++;
        }
        List<Integer> list=new ArrayList<>();
+       List<Integer> list2=new ArrayList<>();
        for(int i=1;i<arr1.length;i++){
         if(arr1[i]>=1&&arr2[i]==0) list.add(i);
+         if(arr2[i]==1) list2.add(i);
        }
-         List<Integer> list2=new ArrayList<>();
-         for(int i=1;i<arr2.length;i++){
-            if(arr2[i]==1) list2.add(i);
-          }
           res.add(list);
           res.add(list2);
           return res;
