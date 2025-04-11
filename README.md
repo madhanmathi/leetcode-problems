@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2350-find-closest-number-to-zero](https://github.com/madhanmathi/leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/madhanmathi/leetcode-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhanmathi/leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/madhanmathi/leetcode-problems/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/madhanmathi/leetcode-problems/tree/master/2502-sort-the-people) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/madhanmathi/leetcode-problems/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/madhanmathi/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/madhanmathi/leetcode-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2406-decode-the-message](https://github.com/madhanmathi/leetcode-problems/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhanmathi/leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/madhanmathi/leetcode-problems/tree/master/2447-merge-similar-items) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/madhanmathi/leetcode-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/madhanmathi/leetcode-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2594-count-pairs-of-similar-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhanmathi/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/madhanmathi/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/madhanmathi/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/madhanmathi/leetcode-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## String Matching
 |  |
