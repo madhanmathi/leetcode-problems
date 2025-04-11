@@ -1,19 +1,20 @@
 class Solution {
     public int minimumRounds(int[] arr) {
-        Arrays.sort(arr);
-        int ans=0;
-        int i=0;
-        while(i<arr.length){
-            int count=1;
-            while(i+1!=arr.length&&arr[i]==arr[i+1]){
-                count++;
-                i++;
-            }
-            if(count==1) return -1;
-            if(count%3==0) ans=ans+(count/3);
-            else ans=ans+((count/3)+1);
-            i++;
-        }
-        return ans;
+      HashMap<Integer,Integer> map=new HashMap<>();
+      HashSet<Integer> list=new HashSet<>();
+      for(int i=0;i<arr.length;i++){
+        list.add(arr[i]);
+      if(!map.containsKey(arr[i])) map.put(arr[i],1);
+      else map.put(arr[i],map.get(arr[i])+1);
+      }  
+      int count=0;
+      for(int i:list){
+        if(map.get(i)<2) return -1;
+        if(map.get(i)%3==0) count=count+map.get(i)/3;
+        else{
+           count=count+((map.get(i)/3)+1);
+        } 
+      }
+      return count;
     }
 }
