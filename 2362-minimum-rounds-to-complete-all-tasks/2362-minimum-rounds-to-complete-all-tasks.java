@@ -2,10 +2,9 @@ class Solution {
     public int minimumRounds(int[] arr) {
       HashMap<Integer,Integer> map=new HashMap<>();
       HashSet<Integer> list=new HashSet<>();
-      for(int i=0;i<arr.length;i++){
-        list.add(arr[i]);
-      if(!map.containsKey(arr[i])) map.put(arr[i],1);
-      else map.put(arr[i],map.get(arr[i])+1);
+      for(int num:arr){
+        list.add(num);
+      map.put(num,map.getOrDefault(num, 0) + 1);
       }  
       int count=0;
       for(int i:list){
@@ -17,4 +16,4 @@ class Solution {
       }
       return count;
     }
-}
+}   
