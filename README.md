@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/madhanmathi/leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/madhanmathi/leetcode-problems/tree/master/2752-sum-multiples) |
+| [2998-count-symmetric-integers](https://github.com/madhanmathi/leetcode-problems/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/madhanmathi/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhanmathi/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhanmathi/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/madhanmathi/leetcode-problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhanmathi/leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2998-count-symmetric-integers](https://github.com/madhanmathi/leetcode-problems/tree/master/2998-count-symmetric-integers) |
 ## Geometry
 |  |
 | ------- |
