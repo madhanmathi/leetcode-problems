@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/madhanmathi/leetcode-problems/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/madhanmathi/leetcode-problems/tree/master/1168-duplicate-zeros) |
 | [1185-find-in-mountain-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1185-find-in-mountain-array) |
+| [1256-rank-transform-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/madhanmathi/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/madhanmathi/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhanmathi/leetcode-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/madhanmathi/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/madhanmathi/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1256-rank-transform-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/madhanmathi/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhanmathi/leetcode-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/madhanmathi/leetcode-problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/madhanmathi/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/madhanmathi/leetcode-problems/tree/master/1137-height-checker) |
+| [1256-rank-transform-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhanmathi/leetcode-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
