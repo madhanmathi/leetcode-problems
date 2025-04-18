@@ -1,7 +1,14 @@
 class Solution {
     public boolean checkOnesSegment(String s) {
-     String a="01";
-     if(s.contains(a)) return false;
-     return true;
+        int count=0;
+    for(int i=0;i<s.length();i++){
+        if(s.charAt(i)=='1') count++;
+    }
+    String a="";
+    for(int i=0;i<count;i++){
+     a+="1";
+    }
+    if(s.contains(a)) return true;
+    return false;
     }
 }
