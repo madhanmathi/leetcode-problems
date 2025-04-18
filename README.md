@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/madhanmathi/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3533-snake-in-matrix) |
+| [3540-hash-divided-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Hash Table
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3533-snake-in-matrix) |
+| [3540-hash-divided-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3540-hash-divided-string) |
 | [3636-check-balanced-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
