@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhanmathi/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhanmathi/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/madhanmathi/leetcode-problems/tree/master/3396-valid-word) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3533-snake-in-matrix) |
