@@ -22,17 +22,11 @@ class Solution {
     Arrays.sort(res);
       int ans=res[k-1];
   int count=0;
-  for(int i=k-1;i>=0;i--){
-    if(res[i]==ans) count++;
-  }
-  int op=0;
+  for(int i=k-1;i>=0;i--) if(res[i]==ans) count++;
 for(int i=lo;i<=hi;i++){
     if(arr[i]==ans) count--;
-    if(count==0){
-   op=i;
-   break;
-    }
+    if(count==0) return i;
 }
-return op;
+return 1;
     }
 }
