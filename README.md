@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhanmathi/leetcode-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/madhanmathi/leetcode-problems/tree/master/1488-sort-integers-by-the-power-value) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/madhanmathi/leetcode-problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/madhanmathi/leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/madhanmathi/leetcode-problems/tree/master/0413-arithmetic-slices) |
 | [0909-stone-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/madhanmathi/leetcode-problems/tree/master/1488-sort-integers-by-the-power-value) |
 ## Game Theory
 |  |
 | ------- |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/madhanmathi/leetcode-problems/tree/master/1488-sort-integers-by-the-power-value) |
 ## Brainteaser
 |  |
 | ------- |
