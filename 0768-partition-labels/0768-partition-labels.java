@@ -20,8 +20,6 @@ class Solution {
                 max=0;
             }
         }
-       // Collections.sort(list,Collections.reverseOrder());
-        System.out.print(Arrays.toString(arr));
   return list;
     }
 }
