@@ -645,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/madhanmathi/leetcode-problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/madhanmathi/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/madhanmathi/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/madhanmathi/leetcode-problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -807,5 +808,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/madhanmathi/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/madhanmathi/leetcode-problems/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
