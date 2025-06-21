@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/madhanmathi/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/madhanmathi/leetcode-problems/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhanmathi/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/madhanmathi/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhanmathi/leetcode-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/0777-toeplitz-matrix) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/madhanmathi/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/madhanmathi/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/madhanmathi/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/madhanmathi/leetcode-problems/tree/master/1505-create-target-array-in-the-given-order) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhanmathi/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhanmathi/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/madhanmathi/leetcode-problems/tree/master/1666-make-the-string-great) |
