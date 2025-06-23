@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/madhanmathi/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhanmathi/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3330-modify-the-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/madhanmathi/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/madhanmathi/leetcode-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhanmathi/leetcode-problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2737-row-with-maximum-ones](https://github.com/madhanmathi/leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhanmathi/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3330-modify-the-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/madhanmathi/leetcode-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## String
 |  |
