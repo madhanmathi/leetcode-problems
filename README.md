@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhanmathi/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhanmathi/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/madhanmathi/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhanmathi/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/madhanmathi/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
 |  |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3540-hash-divided-string) |
 | [3636-check-balanced-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3636-check-balanced-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/madhanmathi/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
