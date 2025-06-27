@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/madhanmathi/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/madhanmathi/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0682-baseball-game) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhanmathi/leetcode-problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/madhanmathi/leetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/madhanmathi/leetcode-problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/madhanmathi/leetcode-problems/tree/master/0367-valid-perfect-square) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/madhanmathi/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/madhanmathi/leetcode-problems/tree/master/2491-smallest-even-multiple) |
