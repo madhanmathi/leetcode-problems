@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/madhanmathi/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/madhanmathi/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/madhanmathi/leetcode-problems/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/madhanmathi/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhanmathi/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/madhanmathi/leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/madhanmathi/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/madhanmathi/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0768-partition-labels](https://github.com/madhanmathi/leetcode-problems/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/madhanmathi/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/madhanmathi/leetcode-problems/tree/master/0817-design-hashmap) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/madhanmathi/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/madhanmathi/leetcode-problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/madhanmathi/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/madhanmathi/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/madhanmathi/leetcode-problems/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/madhanmathi/leetcode-problems/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/madhanmathi/leetcode-problems/tree/master/0782-jewels-and-stones) |
