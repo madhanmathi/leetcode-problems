@@ -11,7 +11,6 @@ class Solution {
             a+=b;
             if(a.length()>k) break;
          }
-         if(k>a.length()) return a.charAt(0);
        return a.charAt(k-1);
     }
 }
