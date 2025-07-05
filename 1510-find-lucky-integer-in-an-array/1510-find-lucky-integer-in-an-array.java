@@ -6,7 +6,7 @@ class Solution {
         }
         int ans=-1;
         for(int n:map.keySet()){
-            if(map.get(n)==n&&n>ans){
+            if(map.get(n)==n){
                 ans=n;
             }
         }
