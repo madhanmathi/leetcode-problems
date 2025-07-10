@@ -9,7 +9,6 @@ class Solution {
                 return arr;
              }
              arr[i]=0;
-             
         }
         int[] ans=new int[arr.length+1];
         ans[0]=1;
