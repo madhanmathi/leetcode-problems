@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/madhanmathi/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/madhanmathi/leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/madhanmathi/leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/madhanmathi/leetcode-problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/madhanmathi/leetcode-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/madhanmathi/leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
