@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/madhanmathi/leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/madhanmathi/leetcode-problems/tree/master/1666-make-the-string-great) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/madhanmathi/leetcode-problems/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/madhanmathi/leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/madhanmathi/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
