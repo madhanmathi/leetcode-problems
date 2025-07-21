@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/madhanmathi/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/madhanmathi/leetcode-problems/tree/master/1260-day-of-the-year) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/madhanmathi/leetcode-problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/madhanmathi/leetcode-problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
