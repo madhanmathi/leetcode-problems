@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/madhanmathi/leetcode-problems/tree/master/0812-rotate-string) |
 | [0961-long-pressed-name](https://github.com/madhanmathi/leetcode-problems/tree/master/0961-long-pressed-name) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1156-occurrences-after-bigram](https://github.com/madhanmathi/leetcode-problems/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/madhanmathi/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/madhanmathi/leetcode-problems/tree/master/1260-day-of-the-year) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
