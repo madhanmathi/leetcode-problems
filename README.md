@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhanmathi/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/madhanmathi/leetcode-problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/madhanmathi/leetcode-problems/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3748-sort-matrix-by-diagonals](https://github.com/madhanmathi/leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/madhanmathi/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/madhanmathi/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhanmathi/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/madhanmathi/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhanmathi/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3748-sort-matrix-by-diagonals](https://github.com/madhanmathi/leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/madhanmathi/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/madhanmathi/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/madhanmathi/leetcode-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3748-sort-matrix-by-diagonals](https://github.com/madhanmathi/leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
 | ------- |
