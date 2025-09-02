@@ -959,4 +959,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/madhanmathi/leetcode-problems/tree/master/2107-find-unique-binary-string) |
+## Database
+|  |
+| ------- |
+| [1837-daily-leads-and-partners](https://github.com/madhanmathi/leetcode-problems/tree/master/1837-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
