@@ -963,4 +963,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1837-daily-leads-and-partners](https://github.com/madhanmathi/leetcode-problems/tree/master/1837-daily-leads-and-partners) |
+| [1948-rearrange-products-table](https://github.com/madhanmathi/leetcode-problems/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
