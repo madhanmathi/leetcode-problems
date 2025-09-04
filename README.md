@@ -968,5 +968,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/madhanmathi/leetcode-problems/tree/master/1153-product-sales-analysis-i) |
 | [1827-invalid-tweets](https://github.com/madhanmathi/leetcode-problems/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/madhanmathi/leetcode-problems/tree/master/1837-daily-leads-and-partners) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/madhanmathi/leetcode-problems/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/madhanmathi/leetcode-problems/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
