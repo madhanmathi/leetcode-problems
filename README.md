@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhanmathi/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/madhanmathi/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/madhanmathi/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhanmathi/leetcode-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/madhanmathi/leetcode-problems/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/madhanmathi/leetcode-problems/tree/master/0792-binary-search) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhanmathi/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/madhanmathi/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhanmathi/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/madhanmathi/leetcode-problems/tree/master/1666-make-the-string-great) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/madhanmathi/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhanmathi/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting Sort
 |  |
