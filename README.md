@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/madhanmathi/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhanmathi/leetcode-problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/madhanmathi/leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0390-elimination-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/madhanmathi/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/madhanmathi/leetcode-problems/tree/master/0504-base-7) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/madhanmathi/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/madhanmathi/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhanmathi/leetcode-problems/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/madhanmathi/leetcode-problems/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/madhanmathi/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/madhanmathi/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
