@@ -985,4 +985,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1892-find-total-time-spent-by-each-employee](https://github.com/madhanmathi/leetcode-problems/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/madhanmathi/leetcode-problems/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/madhanmathi/leetcode-problems/tree/master/2041-the-latest-login-in-2020) |
+| [2110-employees-with-missing-information](https://github.com/madhanmathi/leetcode-problems/tree/master/2110-employees-with-missing-information) |
 <!---LeetCode Topics End-->
