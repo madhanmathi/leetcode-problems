@@ -735,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/madhanmathi/leetcode-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/madhanmathi/leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1965-sum-of-digits-in-base-k](https://github.com/madhanmathi/leetcode-problems/tree/master/1965-sum-of-digits-in-base-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhanmathi/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhanmathi/leetcode-problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/madhanmathi/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
