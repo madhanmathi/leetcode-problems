@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/madhanmathi/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/madhanmathi/leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/madhanmathi/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhanmathi/leetcode-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/madhanmathi/leetcode-problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-occurrences-after-bigram](https://github.com/madhanmathi/leetcode-problems/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/madhanmathi/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/madhanmathi/leetcode-problems/tree/master/1260-day-of-the-year) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/madhanmathi/leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/madhanmathi/leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhanmathi/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/madhanmathi/leetcode-problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
